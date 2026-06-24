@@ -1,4 +1,4 @@
-# -consultor-comunicacao-skill
+# consultor-comunicacao-skill
 Skill de consultoria de comunicação 
 # Consultor de Comunicação - Skill
 
